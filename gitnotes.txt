@@ -1,0 +1,2 @@
+git clone, clones a repository
+git add, adds a file to the statging are
