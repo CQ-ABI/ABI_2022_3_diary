@@ -1,2 +1,3 @@
 git clone, clones a repository
 git add, adds a file to the statging are
+git commit, commits files from staging to repo
